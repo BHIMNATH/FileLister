@@ -1,0 +1,14 @@
+﻿<Window x:Class="FileLister.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="ListFile" Height="350" Width="525" Foreground="#FF0C0C0C" Background="Black">
+    <Grid Height="311">
+        <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*" />
+                <ColumnDefinition Width="2*" />
+            </Grid.ColumnDefinitions>
+        <TextBox Height="24" HorizontalAlignment="Left" Margin="12,12,0,0" Name="filename" VerticalAlignment="Top" Width="144" Text="C:\" FontStretch="Normal" TextWrapping="NoWrap" AutoWordSelection="False" TextAlignment="Center" TextChanged="filename_TextChanged" />
+        <Button Content="Search" Height="29" HorizontalAlignment="Left" Margin="35,53,0,0" Name="search" VerticalAlignment="Top" Width="115" Click="search_Click" />
+        <RichTextBox Grid.Column="1" Margin="10" ScrollViewer.VerticalScrollBarVisibility="Visible" Height="288" HorizontalAlignment="Left" Name="filelist" VerticalAlignment="Top" Width="323" />
+    </Grid>
+</Window>

@@ -1,0 +1,22 @@
+E:\FileLister\FileLister\bin\Debug\FileLister.exe
+E:\FileLister\FileLister\bin\Debug\FileLister.pdb
+E:\FileLister\FileLister\obj\x86\Debug\MainWindow.baml
+E:\FileLister\FileLister\obj\x86\Debug\MainWindow.g.cs
+E:\FileLister\FileLister\obj\x86\Debug\App.g.cs
+E:\FileLister\FileLister\obj\x86\Debug\FileLister_MarkupCompile.cache
+E:\FileLister\FileLister\obj\x86\Debug\FileLister.g.resources
+E:\FileLister\FileLister\obj\x86\Debug\FileLister.Properties.Resources.resources
+E:\FileLister\FileLister\obj\x86\Debug\FileLister.csproj.GenerateResource.Cache
+E:\FileLister\FileLister\obj\x86\Debug\FileLister.exe
+E:\FileLister\FileLister\obj\x86\Debug\FileLister.pdb
+E:\What I did on C#\FileLister\FileLister\obj\x86\Debug\FileLister.exe
+E:\What I did on C#\FileLister\FileLister\obj\x86\Debug\FileLister.pdb
+E:\What I did on C#\FileLister\FileLister\bin\Debug\FileLister.exe
+E:\What I did on C#\FileLister\FileLister\bin\Debug\FileLister.pdb
+E:\What I did on C#\FileLister\FileLister\obj\x86\Debug\MainWindow.baml
+E:\What I did on C#\FileLister\FileLister\obj\x86\Debug\MainWindow.g.cs
+E:\What I did on C#\FileLister\FileLister\obj\x86\Debug\App.g.cs
+E:\What I did on C#\FileLister\FileLister\obj\x86\Debug\FileLister_MarkupCompile.cache
+E:\What I did on C#\FileLister\FileLister\obj\x86\Debug\FileLister.g.resources
+E:\What I did on C#\FileLister\FileLister\obj\x86\Debug\FileLister.Properties.Resources.resources
+E:\What I did on C#\FileLister\FileLister\obj\x86\Debug\FileLister.csproj.GenerateResource.Cache
